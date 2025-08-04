@@ -156,23 +156,11 @@ npm run preview      # Preview production build
 npm run lint         # Run ESLint
 ```
 
-## 🌐 Deployment
-
-### GitHub Pages
-1. Build the project: `npm run build`
-2. Deploy the `dist` folder to GitHub Pages
-3. Enable GitHub Pages in repository settings
-
 ### Netlify
 1. Connect your GitHub repository to Netlify
 2. Set build command: `npm run build`
 3. Set publish directory: `dist`
 4. Deploy automatically on push
-
-### Vercel
-1. Import your GitHub repository to Vercel
-2. Vercel auto-detects Vite configuration
-3. Deploy with zero configuration
 
 ### Manual Hosting
 1. Run `npm run build`
@@ -201,9 +189,10 @@ npm run lint         # Run ESLint
 - Add proper error handling
 - Include JSDoc comments for complex functions
 
+
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
@@ -225,3 +214,10 @@ If you encounter any issues or have questions:
 **Made with ❤️ for developers who work across timezones**
 
 ⭐ Star this repository if you found it helpful!
+
+## 👨‍💻 Author
+
+**Srini Web**
+- Website: [sriniweb.com](https://sriniweb.com)
+- Instagram: [@sriniweb](https://instagram.com/sriniweb)
+- LinkedIn: [sriniweb](https://linkedin.com/in/sriniweb)
